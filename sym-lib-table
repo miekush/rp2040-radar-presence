@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB4145-03-0170-C_REVA2")(type "KiCad")(uri "${KIPRJMOD}/USB4145-03-0170-C_REVA2.kicad_sym")(options "")(descr ""))
+)

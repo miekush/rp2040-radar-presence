@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "rp2040-radar-presense-sensor")(type "KiCad")(uri "${KIPRJMOD}/rp2040-radar-presence-sensor.pretty")(options "")(descr ""))
+)
