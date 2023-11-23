@@ -5,7 +5,7 @@ RP2040/LD2410 based Radar Presence sensor
 
 # Documentation
 
-I created a short description for this project on Hackaday.io! See the project page [HERE](https://www.hackster.io/miekush/fluke-87v-alarm-clock-af6be2)!
+I created a short description for this project on Hackaday.io! See the project page [HERE]([https://www.hackster.io/miekush/fluke-87v-alarm-clock-af6be2](https://hackaday.io/project/193141-radar-halloween-candy-basket-light))!
 
 # License
 
